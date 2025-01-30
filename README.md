@@ -1,5 +1,3 @@
-# Kundrapu-Harika
-## My LeetCode SQL Badge  
-![image](https://github.com/user-attachments/assets/7f00e3cc-0697-4397-8960-39459b988e92)
-
+## My LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/harikakundrapu216?theme=dark&font=Duru%20Sans)
 
